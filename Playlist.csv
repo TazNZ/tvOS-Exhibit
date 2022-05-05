@@ -1,5 +1,4 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://github.com/NU-ITS/Exhibit/raw/master/Demo/Exhibit01.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit02,https://github.com/NU-ITS/Exhibit/raw/master/Demo/Exhibit02.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit03,https://github.com/NU-ITS/Exhibit/raw/master/Demo/Exhibit03.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit04,https://github.com/NU-ITS/Exhibit/raw/master/Demo/Exhibit04.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+File01,https://github.com/TazNZ/tvOS-Exhibit/blob/main/10329813_795909717108610_9028121416883209624_o.jpg,0:00:10,1:00:00,1/01/18 0:00,12/31/30 23:59,yes
+File02,https://github.com/TazNZ/tvOS-Exhibit/blob/main/Front-building2-e1559012783579.jpg,0:00:10,1:00:00,1/01/18 0:00,12/31/30 23:59,yes
+File03,https://github.com/TazNZ/tvOS-Exhibit/blob/main/MAGS%202020%20Science%20Block%20_%20Mount%20Albert%20grammar%20School%20%20(3%20of%2023)-0-2500-0-0-aspect.jpg,0:00:10,1:00:00,1/01/18 0:00,12/31/30 23:59,yes
